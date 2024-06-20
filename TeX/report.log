@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.11.3)  19 JUN 2024 16:02
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.11.3)  20 JUN 2024 09:50
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -495,12 +495,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 73--75
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 86--89
+Underfull \hbox (badness 10000) in paragraph at lines 85--88
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 86--89
+Underfull \hbox (badness 10000) in paragraph at lines 85--88
 
  []
 
@@ -512,34 +512,37 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [5]
-Underfull \hbox (badness 10000) in paragraph at lines 91--94
+Underfull \hbox (badness 10000) in paragraph at lines 90--93
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 91--94
+Underfull \hbox (badness 10000) in paragraph at lines 90--93
 
  []
 
-<imgs/results_lr_0.00232.png, id=84, 1003.8303pt x 426.393pt>
+<imgs/results_lr_0.00232.png, id=83, 1003.8303pt x 426.393pt>
 File: imgs/results_lr_0.00232.png Graphic file (type png)
 <use imgs/results_lr_0.00232.png>
-Package pdftex.def Info: imgs/results_lr_0.00232.png  used on input line 98.
+Package pdftex.def Info: imgs/results_lr_0.00232.png  used on input line 97.
 (pdftex.def)             Requested size: 483.69687pt x 205.46007pt.
-<imgs/prediction_visualisation.png, id=86, 1076.823pt x 351.2322pt>
+<imgs/prediction_visualisation.png, id=85, 1076.823pt x 351.2322pt>
 File: imgs/prediction_visualisation.png Graphic file (type png)
 <use imgs/prediction_visualisation.png>
-Package pdftex.def Info: imgs/prediction_visualisation.png  used on input line 106.
+Package pdftex.def Info: imgs/prediction_visualisation.png  used on input line 105.
 (pdftex.def)             Requested size: 483.69687pt x 157.76898pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 96--111
+Underfull \hbox (badness 10000) in paragraph at lines 95--110
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 96--111
+Underfull \hbox (badness 10000) in paragraph at lines 95--110
 
  []
+
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
@@ -549,6 +552,9 @@ Package fancyhdr Warning: \headheight is too small (12.0pt):
 (fancyhdr)                \addtolength{\topmargin}{-1.59999pt}.
 
 [6]
+
+LaTeX Warning: `!h' float specifier changed to `!ht'.
+
 
 Package fancyhdr Warning: \headheight is too small (12.0pt): 
 (fancyhdr)                Make it at least 13.59999pt, for example:
@@ -577,18 +583,18 @@ Package rerunfilecheck Info: File `report.out' has not changed.
 (rerunfilecheck)             Checksum: 3D8A5E20C08456E8A15313C82D1CB19C;627.
  ) 
 Here is how much of TeX's memory you used:
- 12347 strings out of 476025
- 192474 string characters out of 5790017
+ 12346 strings out of 476025
+ 192468 string characters out of 5790017
  1867388 words of memory out of 5000000
  32580 multiletter control sequences out of 15000+600000
  523941 words of font info for 74 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,31n,76p,2030b,459s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,31n,76p,2041b,459s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
-Output written on /Users/lukas/Library/CloudStorage/OneDrive-Persönlich/Studium/Milan/classes/amd/project/genre_classifier/TeX/report.pdf (9 pages, 1733420 bytes).
+Output written on /Users/lukas/Library/CloudStorage/OneDrive-Persönlich/Studium/Milan/classes/amd/project/genre_classifier/TeX/report.pdf (9 pages, 1733388 bytes).
 PDF statistics:
- 157 PDF objects out of 1000 (max. 8388607)
- 118 compressed objects within 2 object streams
- 33 named destinations out of 1000 (max. 500000)
+ 156 PDF objects out of 1000 (max. 8388607)
+ 117 compressed objects within 2 object streams
+ 32 named destinations out of 1000 (max. 500000)
  66 words of extra memory for PDF output out of 10000 (max. 10000000)
 

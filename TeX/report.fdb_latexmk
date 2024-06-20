@@ -1,23 +1,23 @@
 # Fdb version 4
-["bibtex /Users/lukas/Library/CloudStorage/OneDrive-Persönlich/Studium/Milan/classes/amd/project/genre_classifier/TeX/report"] 1718805920 "/Users/lukas/Library/CloudStorage/OneDrive-Persönlich/Studium/Milan/classes/amd/project/genre_classifier/TeX/report.aux" "/Users/lukas/Library/CloudStorage/OneDrive-Persönlich/Studium/Milan/classes/amd/project/genre_classifier/TeX/report.bbl" "/Users/lukas/Library/CloudStorage/OneDrive-Persönlich/Studium/Milan/classes/amd/project/genre_classifier/TeX/report" 1718805920 0
+["bibtex /Users/lukas/Library/CloudStorage/OneDrive-Persönlich/Studium/Milan/classes/amd/project/genre_classifier/TeX/report"] 1718805920 "/Users/lukas/Library/CloudStorage/OneDrive-Persönlich/Studium/Milan/classes/amd/project/genre_classifier/TeX/report.aux" "/Users/lukas/Library/CloudStorage/OneDrive-Persönlich/Studium/Milan/classes/amd/project/genre_classifier/TeX/report.bbl" "/Users/lukas/Library/CloudStorage/OneDrive-Persönlich/Studium/Milan/classes/amd/project/genre_classifier/TeX/report" 1718869811 0
   "/Users/lukas/Library/CloudStorage/OneDrive-Persönlich/Studium/Milan/classes/amd/project/genre_classifier/TeX/references.bib" 1718805920 804 36c93d02f565768de37019373240f4c7 ""
-  "/Users/lukas/Library/CloudStorage/OneDrive-Persönlich/Studium/Milan/classes/amd/project/genre_classifier/TeX/report.aux" 1718805764 2662 97a4a0fb16abd19f63d8eb21e4077ac4 "pdflatex"
+  "/Users/lukas/Library/CloudStorage/OneDrive-Persönlich/Studium/Milan/classes/amd/project/genre_classifier/TeX/report.aux" 1718869811 2662 97a4a0fb16abd19f63d8eb21e4077ac4 "pdflatex"
   "/usr/local/texlive/2023/texmf-dist/bibtex/bst/base/abbrv.bst" 1292289607 20329 b5fed53e10044d0f8112183785c759b1 ""
   (generated)
   "/Users/lukas/Library/CloudStorage/OneDrive-Persönlich/Studium/Milan/classes/amd/project/genre_classifier/TeX/report.bbl"
   "/Users/lukas/Library/CloudStorage/OneDrive-Persönlich/Studium/Milan/classes/amd/project/genre_classifier/TeX/report.blg"
   (rewritten before read)
-["pdflatex"] 1718805763 "/Users/lukas/Library/CloudStorage/OneDrive-Persönlich/Studium/Milan/classes/amd/project/genre_classifier/TeX/report.tex" "/Users/lukas/Library/CloudStorage/OneDrive-Persönlich/Studium/Milan/classes/amd/project/genre_classifier/TeX/report.pdf" "report" 1718805920 0
+["pdflatex"] 1718869810 "/Users/lukas/Library/CloudStorage/OneDrive-Persönlich/Studium/Milan/classes/amd/project/genre_classifier/TeX/report.tex" "/Users/lukas/Library/CloudStorage/OneDrive-Persönlich/Studium/Milan/classes/amd/project/genre_classifier/TeX/report.pdf" "report" 1718869811 0
   "/Users/lukas/Library/CloudStorage/OneDrive-Persönlich/Studium/Milan/classes/amd/project/genre_classifier/TeX/imgs/balanced_train_data.png" 1718027920 94667 7da707fde984610443900c48a3645dad ""
   "/Users/lukas/Library/CloudStorage/OneDrive-Persönlich/Studium/Milan/classes/amd/project/genre_classifier/TeX/imgs/drama_distribution.png" 1718178805 65369 ad8865680b279766c27aecf0306d4ca0 ""
   "/Users/lukas/Library/CloudStorage/OneDrive-Persönlich/Studium/Milan/classes/amd/project/genre_classifier/TeX/imgs/prediction_visualisation.png" 1718804965 1012975 65ca032e16171fd9d0e52648fb619829 ""
   "/Users/lukas/Library/CloudStorage/OneDrive-Persönlich/Studium/Milan/classes/amd/project/genre_classifier/TeX/imgs/results_lr_0.00232.png" 1718787090 68553 2d1e9922d380f86a0661b8bf724817ea ""
   "/Users/lukas/Library/CloudStorage/OneDrive-Persönlich/Studium/Milan/classes/amd/project/genre_classifier/TeX/imgs/unbalanced_test_data.png" 1718027932 92663 fc201ee7bcccaa827c9a045ed01b0052 ""
-  "/Users/lukas/Library/CloudStorage/OneDrive-Persönlich/Studium/Milan/classes/amd/project/genre_classifier/TeX/report.aux" 1718805764 2662 97a4a0fb16abd19f63d8eb21e4077ac4 "pdflatex"
+  "/Users/lukas/Library/CloudStorage/OneDrive-Persönlich/Studium/Milan/classes/amd/project/genre_classifier/TeX/report.aux" 1718869811 2662 97a4a0fb16abd19f63d8eb21e4077ac4 "pdflatex"
   "/Users/lukas/Library/CloudStorage/OneDrive-Persönlich/Studium/Milan/classes/amd/project/genre_classifier/TeX/report.bbl" 1718805920 395 23278e7937707e553deb3ee45e9274df "bibtex /Users/lukas/Library/CloudStorage/OneDrive-Persönlich/Studium/Milan/classes/amd/project/genre_classifier/TeX/report"
-  "/Users/lukas/Library/CloudStorage/OneDrive-Persönlich/Studium/Milan/classes/amd/project/genre_classifier/TeX/report.out" 1718805764 627 3d8a5e20c08456e8a15313c82d1cb19c "pdflatex"
-  "/Users/lukas/Library/CloudStorage/OneDrive-Persönlich/Studium/Milan/classes/amd/project/genre_classifier/TeX/report.tex" 1718805877 18156 037ae4133d17526d22cb9ea2934a6eda ""
-  "/Users/lukas/Library/CloudStorage/OneDrive-Persönlich/Studium/Milan/classes/amd/project/genre_classifier/TeX/report.toc" 1718805764 360 f259f823c312f26ac6f7525c13e8fb04 "pdflatex"
+  "/Users/lukas/Library/CloudStorage/OneDrive-Persönlich/Studium/Milan/classes/amd/project/genre_classifier/TeX/report.out" 1718869811 627 3d8a5e20c08456e8a15313c82d1cb19c "pdflatex"
+  "/Users/lukas/Library/CloudStorage/OneDrive-Persönlich/Studium/Milan/classes/amd/project/genre_classifier/TeX/report.tex" 1718869810 18082 3b005653d04a913fe9eff777da37ccf2 ""
+  "/Users/lukas/Library/CloudStorage/OneDrive-Persönlich/Studium/Milan/classes/amd/project/genre_classifier/TeX/report.toc" 1718869811 360 f259f823c312f26ac6f7525c13e8fb04 "pdflatex"
   "/usr/local/texlive/2023/texmf-dist/fonts/map/fontname/texfonts.map" 1577235249 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmbsy6.tfm" 1246382020 1124 14ccf5552bc7f77ca02a8a402bea8bfb ""
   "/usr/local/texlive/2023/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmbsy8.tfm" 1246382020 1120 200be8b775682cdf80acad4be5ef57e4 ""
